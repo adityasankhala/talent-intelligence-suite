@@ -1,0 +1,35 @@
+Priya Sharma
+priya.sharma@outlook.com | +91 98765 12345 | Gurgaon, India
+
+Professional Summary
+Data-driven analyst with 2 years of experience in recruitment analytics, data visualization, and process automation. Proficient in Excel, SQL, and Power BI. Passionate about leveraging AI to improve hiring outcomes.
+
+Education
+B.Tech Computer Science, GGSIPU Delhi (2021 - 2025)
+
+Technical Skills
+Languages: Python, SQL
+Tools: Power BI, Excel (Pivot Tables, VLOOKUP, Conditional Formatting), Tableau
+Automation: Power Automate, basic scripting with Python
+Other: Git, Jupyter Notebook, Google Analytics
+
+Work Experience
+Data Analyst Intern | Wipro (Jan 2024 - Jun 2024)
+- Built SQL queries to extract and clean recruitment pipeline data from internal databases.
+- Designed 4 Power BI dashboards tracking time-to-hire, source effectiveness, and offer acceptance rates.
+- Automated weekly reporting workflows using Power Automate, reducing manual effort by 40%.
+- Conducted data analysis on candidate funnel metrics to identify bottlenecks in Engineering hiring.
+
+Projects
+Talent Intelligence Dashboard
+- Created an end-to-end analytics dashboard analyzing 5000+ candidate records using Python, SQL, and Power BI.
+- Wrote DAX measures for calculated conversion rates and rolling averages.
+- Published insights on sourcing channel ROI that informed Q3 hiring strategy.
+
+AI Resume Screener
+- Built a Python-based resume parser using NLP techniques to extract skills and match against job descriptions.
+- Implemented a weighted scoring algorithm distinguishing must-have vs good-to-have skills.
+
+Certifications
+- Microsoft Power BI Data Analyst Associate
+- Google Data Analytics Professional Certificate

@@ -1,0 +1,39 @@
+Anika Desai
+anika.desai@protonmail.com | +91 88888 77777 | Bangalore, India
+
+Profile
+Machine learning engineer with 3 years of experience building production AI systems. Strong background in NLP, deep learning, and building autonomous agent pipelines. Experienced with data pipelines, ETL workflows, and API integrations.
+
+Education
+M.Tech Artificial Intelligence, IISc Bangalore (2020 - 2022)
+B.Tech CSE, NIT Trichy (2016 - 2020)
+
+Skills
+Languages: Python, SQL, R
+ML/AI: PyTorch, TensorFlow, Hugging Face, LangChain, Multi-Agent Systems
+Data: Pandas, NumPy, Spark, Airflow, ETL pipelines
+Databases: PostgreSQL, MySQL, MongoDB
+Tools: Docker, Git, Jupyter, MLflow
+Visualization: Power BI, Matplotlib, Seaborn
+
+Experience
+ML Engineer | Fractal Analytics (Jul 2022 - Present)
+- Designed and deployed NLP models for automated resume screening, processing 10K+ documents monthly.
+- Built agentic AI workflows using LangChain for candidate sourcing automation.
+- Developed REST APIs serving ML predictions with FastAPI, handling 1000 req/sec.
+- Created Power BI dashboards for model performance monitoring and talent analytics.
+- Wrote complex SQL queries for feature engineering from recruitment databases.
+
+Data Science Intern | TCS Innovation Labs (Jan 2022 - Jun 2022)
+- Built a multi-agent system for automated candidate evaluation using reinforcement learning.
+- Implemented data pipelines with Airflow for processing HR analytics datasets.
+- Conducted statistical analysis on hiring patterns across 15 business units.
+
+Projects
+LLM-Powered Talent Intelligence Agent
+- Built an autonomous agent using LangChain that scrapes job boards, matches candidates, and generates shortlists.
+- Integrated with Excel and SQL databases for structured reporting.
+
+Recruitment Funnel Optimizer
+- Applied machine learning to predict candidate drop-off at each hiring stage.
+- Reduced time-to-hire by 18% through data-driven process recommendations.

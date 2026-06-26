@@ -1,0 +1,29 @@
+Raj Patel
+raj.patel@gmail.com | +91 70001 23456 | Mumbai, India
+
+Summary
+Enthusiastic computer science student with internship experience in web development and interest in data-driven problem solving.
+
+Education
+B.E. Computer Engineering, Mumbai University (2022 - 2026)
+
+Skills
+Languages: JavaScript, HTML/CSS, Python
+Frameworks: React, Express.js, Node.js
+Databases: MongoDB, Firebase
+Tools: VS Code, Postman, Git
+
+Experience
+Web Developer Intern | Freelance (Mar 2025 - Present)
+- Developed responsive websites for 3 small businesses using React and Node.js.
+- Integrated REST APIs for payment processing and user authentication.
+- Managed project timelines and client communications independently.
+
+Projects
+E-commerce Dashboard
+- Built a React-based admin panel with order tracking and revenue charts.
+- Used Chart.js for data visualization of sales trends.
+
+College Event Portal
+- Full-stack MERN application for managing college fest registrations.
+- Handled 500+ concurrent users during peak registration period.

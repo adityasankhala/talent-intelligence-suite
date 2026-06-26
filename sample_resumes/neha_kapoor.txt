@@ -1,0 +1,33 @@
+Neha Kapoor
+neha.kapoor@hotmail.com | +91 99000 11000 | Noida, India
+
+Summary
+HR professional with 2 years of experience in talent acquisition, sourcing, and recruitment operations. Skilled in ATS management, Boolean search strategies, and interview scheduling. Looking to transition into HR tech and recruitment analytics.
+
+Education
+MBA Human Resources, Amity University Noida (2022 - 2024)
+BBA, Delhi University (2019 - 2022)
+
+Skills
+HR Tools: Workday, LinkedIn Recruiter, Naukri, Boolean Search
+Office: Excel (Pivot Tables), PowerPoint, Google Sheets
+Recruitment: Sourcing, Interview Scheduling, Employer Branding, Onboarding
+Other: Basic SQL, Basic Python
+
+Experience
+Talent Acquisition Associate | Infosys BPM (Jun 2024 - Present)
+- Managed end-to-end recruitment for technology roles, closing 15+ positions per quarter.
+- Built Excel trackers with pivot tables for weekly hiring status reporting to leadership.
+- Conducted Boolean searches on LinkedIn to source niche technical talent.
+- Collaborated with hiring managers to refine job descriptions and screening criteria.
+- Maintained applicant tracking system data integrity across 500+ active candidates.
+
+HR Intern | Deloitte India (Jan 2024 - May 2024)
+- Supported campus recruitment drives across 8 engineering colleges.
+- Created employer branding content for LinkedIn and Instagram.
+- Analyzed time-to-hire metrics using Excel and presented findings to the HR director.
+
+Projects
+Recruitment Dashboard (Academic)
+- Built an Excel-based recruitment tracker with conditional formatting and pivot charts.
+- Analyzed sourcing channel effectiveness for a 200-candidate dataset.

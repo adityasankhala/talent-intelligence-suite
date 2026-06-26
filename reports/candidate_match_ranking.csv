@@ -1,0 +1,6 @@
+Rank,File,Candidate Name,Email,Match Score,Max Score,Match %,Must-Have Matched,Must-Have Missing,Good-to-Have Matched,Good-to-Have Missing
+1,anika_desai.txt,Anika Desai,anika.desai@protonmail.com,100,100,100.0,Excel; SQL; Power BI; Data Visualization; Automation; AI / ML Basics; Analytical Skills; Technical Mindset,,Agent-Based Systems; Data Pipelines; Python; TA Analytics,
+2,priya_sharma.txt,Priya Sharma,priya.sharma@outlook.com,89,100,89.0,Excel; SQL; Power BI; Data Visualization; Automation; AI / ML Basics; Analytical Skills; Technical Mindset,,Python; TA Analytics,Agent-Based Systems; Data Pipelines
+3,neha_kapoor.txt,Neha Kapoor,neha.kapoor@hotmail.com,52,100,52.0,Excel; SQL; Data Visualization; Technical Mindset,Power BI; Automation; AI / ML Basics; Analytical Skills,Python; TA Analytics,Agent-Based Systems; Data Pipelines
+4,raj_patel.txt,Raj Patel,raj.patel@gmail.com,42,100,42.0,Power BI; Data Visualization; Analytical Skills; Technical Mindset,Excel; SQL; Automation; AI / ML Basics,Data Pipelines; Python,Agent-Based Systems; TA Analytics
+5,vikram_sinha.txt,Vikram Sinha,vikram.sinha@yahoo.com,0,100,0.0,,Excel; SQL; Power BI; Data Visualization; Automation; AI / ML Basics; Analytical Skills; Technical Mindset,,Agent-Based Systems; Data Pipelines; Python; TA Analytics
