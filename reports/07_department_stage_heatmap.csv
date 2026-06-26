@@ -1,0 +1,36 @@
+department,stage_name,candidate_count
+Data & Analytics,Applied,615
+Data & Analytics,Screened,369
+Data & Analytics,Tech Round 1,254
+Data & Analytics,Tech Round 2,190
+Data & Analytics,Managerial,177
+Data & Analytics,Offered,156
+Data & Analytics,Hired,130
+Engineering,Applied,1028
+Engineering,Screened,699
+Engineering,Tech Round 1,488
+Engineering,Tech Round 2,400
+Engineering,Managerial,366
+Engineering,Offered,315
+Engineering,Hired,236
+Product,Applied,271
+Product,Screened,144
+Product,Tech Round 1,84
+Product,Tech Round 2,55
+Product,Managerial,49
+Product,Offered,41
+Product,Hired,34
+Sales & Marketing,Applied,642
+Sales & Marketing,Screened,433
+Sales & Marketing,Tech Round 1,364
+Sales & Marketing,Tech Round 2,315
+Sales & Marketing,Managerial,285
+Sales & Marketing,Offered,236
+Sales & Marketing,Hired,172
+Talent Acquisition,Applied,444
+Talent Acquisition,Screened,328
+Talent Acquisition,Tech Round 1,271
+Talent Acquisition,Tech Round 2,233
+Talent Acquisition,Managerial,217
+Talent Acquisition,Offered,204
+Talent Acquisition,Hired,178

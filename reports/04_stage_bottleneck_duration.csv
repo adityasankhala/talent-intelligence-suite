@@ -1,0 +1,7 @@
+from_stage,to_stage,transitions,avg_days_in_stage,max_days_in_stage
+Applied,Screened,1973,3.1,6
+Screened,Tech Round 1,1461,5.1,10
+Tech Round 1,Tech Round 2,1193,4.9,10
+Tech Round 2,Managerial,1094,4.2,8
+Managerial,Offered,952,3.6,7
+Offered,Hired,750,4.4,8
